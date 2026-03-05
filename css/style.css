@@ -581,3 +581,13 @@ textarea.form-control { min-height: 120px; resize: vertical; }
    AI-GENERATED STYLES BELOW THIS LINE
    The agent appends business-specific styles here.
    ============================================================ */
+:root {
+  --color-primary: #2E7D32; /* Deep, friendly green */
+  --color-primary-light: #4CAF50;
+  --color-primary-dark: #1B5E20;
+  --color-accent: #FFC107; /* Warm, inviting amber/yellow */
+  --color-accent-dark: #FFB300;
+  --color-accent-light: #FFF8E1;
+  --color-highlight: #FF9800; /* Vibrant orange */
+  --color-highlight-light: #FFB74D;
+}
